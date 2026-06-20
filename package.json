@@ -1,0 +1,43 @@
+{
+  "name": "@happywp/pdftomarkdown-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for converting PDFs, Office docs, images, HTML, and EPUB to clean Markdown via PDFtoMarkdown.ai",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "pdftomarkdown-mcp": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "pdf",
+    "markdown",
+    "pdf-to-markdown",
+    "docx",
+    "ocr",
+    "claude",
+    "cursor",
+    "ai-agent"
+  ],
+  "homepage": "https://pdftomarkdown.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happywpco/pdftomarkdown-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/happywpco/pdftomarkdown-mcp/issues"
+  },
+  "author": "HappyWP (https://happywp.co)",
+  "license": "MIT"
+}
