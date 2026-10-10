@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@happywp/pdftomarkdown-mcp.svg)](https://www.npmjs.com/package/@happywp/pdftomarkdown-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-clay.svg)](./LICENSE)
+[![ToolSDK MCP Registry](https://badges.toolsdk.ai/badge/@happywp/pdftomarkdown-mcp)](https://toolsdk-ai.github.io/toolsdk-mcp-registry/#%40happywp%2Fpdftomarkdown-mcp)
 
 An [MCP](https://modelcontextprotocol.io) server that lets AI agents convert **PDFs, Word, PowerPoint, Excel, images, HTML, and EPUB** into clean, structured **Markdown** — powered by [PDFtoMarkdown.ai](https://pdftomarkdown.ai).
 
